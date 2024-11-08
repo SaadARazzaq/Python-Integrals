@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a75b06bd-9601-43f4-864b-f8aac1397ecc)
 
-This repository includes a Colab notebook that demonstrates how to perform definite and indefinite integration using Python libraries such as SciPy and SymPy. The examples cover a range of integration techniques, from single-variable integrals to double and triple integrals, as well as indefinite integrals with symbolic math.
+This repository includes a Colab notebook that demonstrates how to perform definite and indefinite integration using Python libraries such as SciPy and SymPy. The examples cover a range of integration techniques, from single-variable integrals to double and triple integrals, as well as indefinite integrals with symbolic math. (MERGED ALL INTO ONE PLACE FROM FREECODECAMP)
 
 ## Overview
 
